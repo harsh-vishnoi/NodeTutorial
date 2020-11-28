@@ -1,4 +1,5 @@
-/MongoLocalConnect/node_modules
-/MongoCloudConnect/node_modules
-/FileUploader/node_modules
-/Authentication/node_modules
+MongoLocalConnect/node_modules
+MongoCloudConnect/node_modules
+FileUploader/node_modules
+Authentication/node_modules
+FileUploaderMulter/node_modules
