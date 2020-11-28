@@ -1,5 +1,5 @@
 {
-  "name": "tasknode",
+  "name": "fileuploader",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcryptjs": "^2.4.3"
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
   }
 }
